@@ -1,0 +1,300 @@
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojResolveAssemblyReference.cache
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Ferdinan\Desktop\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Shop.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojResolveAssemblyReference.cache
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.Cache
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Ferry\Downloads\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojResolveAssemblyReference.cache
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.RegisteredUser.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CopyComplete
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.stock.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.convert.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\FlashControlV71.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\stdole.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.sales.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.editBRG.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Stock_Employee.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\FlashControlV71.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\stdole.dll
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojAssemblyReference.cache
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.convert.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.editBRG.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.RegisteredUser.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.sales.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.stock.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Stock_Employee.resources
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CopyComplete
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Gilbert Kho\Downloads\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\FlashControlV71.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\stdole.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojAssemblyReference.cache
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.convert.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.editBRG.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.RegisteredUser.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.sales.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.stock.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Stock_Employee.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CopyComplete
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Gilbert Kho\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\bin\Debug\stdole.dll
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojAssemblyReference.cache
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.convert.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.editBRG.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.RegisteredUser.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.sales.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.stock.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Stock_Employee.resources
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CopyComplete
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Khomaro\Desktop\ProjectSDP-master\ProjectSDP-master\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\FlashControlV71.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\stdole.dll
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojResolveAssemblyReference.cache
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.convert.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.editBRG.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.RegisteredUser.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.sales.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.stock.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Stock_Employee.resources
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CopyComplete
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Ferdinan\Desktop\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe.config
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.exe
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ProyekSDP.pdb
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\FlashControlV71.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\bin\Debug\stdole.dll
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csprojAssemblyReference.cache
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.AdminPage.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.convert.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.editBRG.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.formKasir.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.EmployeePage.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Form1.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.login.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.OrderedSupply.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihBarang.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pilihCustomer.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.register.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.RegisteredUser.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.sales.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.shop.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Properties.Resources.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.stock.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.Stock_Employee.resources
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.GenerateResource.cache
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.csproj.CopyComplete
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.exe
+C:\Users\Gilbert Kho\Desktop\ProjectSDP\ProjectSDP w Employee\ProyekSDP\ProyekSDP\obj\Debug\ProyekSDP.pdb
